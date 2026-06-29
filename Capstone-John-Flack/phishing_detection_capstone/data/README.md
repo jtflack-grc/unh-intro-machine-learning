@@ -2,6 +2,6 @@
 
 This project uses the UCI Machine Learning Repository Phishing Websites Dataset.
 
-The notebook is designed to load `data/Training Dataset.arff` if it is present locally. If the file is not present and the environment has internet access, the notebook attempts to download the dataset from the UCI repository.
+A local copy of Training Dataset.arff is included in this folder so the notebook can run reproducibly during review or grading. The notebook is also designed to attempt a UCI download if the local file is not available and the environment has internet access.
 
-The dataset is not committed here unless course or repository rules allow it.
+Source: UCI Machine Learning Repository - Phishing Websites Dataset
