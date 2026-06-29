@@ -68,7 +68,7 @@ phishing_detection_capstone/
 │   └── phishing_detection_capstone.ipynb
 ├── docs/
 │   ├── Project_Documentation_Worksheet.docx
-│   └── Project_Documentation_Worksheet_FINAL.pdf
+│   └── Project_Documentation_Worksheet.pdf
 └── data/
     └── README.md
 ```
